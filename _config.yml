@@ -1,7 +1,7 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "The Last Supper"
+title: "The Last Supper"
+description: "We grant magicians with $magick"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /jekyll-theme-memoirs
@@ -15,20 +15,20 @@ email: wowthemesnet@gmail.com
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: wunderbar
+    display_name: wunderbar
     avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
+    email: wunderbar@gmail.com
+    web: wunderbar.eth
+    twitter: https://twitter.com/wunderbar
     description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
   john:
-    name: John
-    display_name: John    
+    name: lemmeguest
+    display_name: lemmeguess   
     avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: lemmeguess@gmail.com
+    web: lemmeguess.eth
+    twitter: https://twitter.com/lemmeguess
     description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
 
 # Plugins
