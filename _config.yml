@@ -13,7 +13,7 @@ permalink: /:title/
 email: wowthemesnet@gmail.com
 
 # Members
-founders:
+authors:
   sal:
     name: wunderbar
     display_name: wunderbar
