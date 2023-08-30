@@ -12,25 +12,24 @@ include: ["_pages"]
 permalink: /:title/
 email: wowthemesnet@gmail.com
 
-# Authors
-authors:
+# Members
+founders:
   sal:
     name: wunderbar
     display_name: wunderbar
     avatar: 'assets/images/avatar-sal.png'
-    email: wunderbar@gmail.com
-    web: wunderbar.eth
-    twitter: https://twitter.com/wunderbar
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    email: 
+    web: 
+    twitter: 
+    description: "founding member"
   john:
     name: lemmeguest
     display_name: lemmeguess   
     avatar: 'assets/images/avatar.png'
-    email: lemmeguess@gmail.com
-    web: lemmeguess.eth
-    twitter: https://twitter.com/lemmeguess
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
-
+    email: 
+    web: 
+    twitter: 
+    description: "founding member"
 # Plugins
 plugins:
   - jekyll-paginate
